@@ -1,5 +1,7 @@
 # manipulator_hand
 
+这个库总结了在实验过程中，用到的各种手抓，以及所采用的源代码。
+
 handControl aubo manipulator hand
 
 UR5-control-with-RG2 UR5
